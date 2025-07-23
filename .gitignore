@@ -1,2 +1,35 @@
-# created by virtualenv automatically
+# Python virtual environments
+venv/
+.env/
+ENV/
+env/
 
+# PyCharm/IntelliJ IDEA project files
+.idea/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Pygame installed directly in include/site
+include/site/python3.11/pygame/
+
+# Site-packages for Windows and Unix
+Lib/site-packages/
+lib/site-packages/
+
+# Scripts folder (Windows venv)
+Scripts/
+
+# Mac OS files
+.DS_Store
+
+# Other typical Python ignores
+*.log
+*.pot
+*.mo
+
+# VSCode settings (optional)
+.vscode/
