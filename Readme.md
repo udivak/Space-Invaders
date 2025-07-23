@@ -27,7 +27,7 @@ Classic alien-blasting arcade fun—now with:
 ### Requirements
 
 - Python **3.11** or higher
-- [Pygame](https://www.pygame.org/) (`pip install pygame`)
+- [Pygame](https://www.pygame.org/)
 
 ### Installation
 
@@ -37,7 +37,7 @@ Classic alien-blasting arcade fun—now with:
     cd Space-Invaders-Pro
     ```
 
-2. **Install dependencies:**
+2. **Run the game:**
     run Space Invaders Pro.exe
 
 

@@ -30,6 +30,7 @@ Scripts/
 *.log
 *.pot
 *.mo
+*.cfg
 
 # VSCode settings (optional)
 .vscode/
